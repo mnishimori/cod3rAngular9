@@ -1,0 +1,25 @@
+ctrl + shift + p => abre um campo para pesquisa de todos os recursos do VS Code.
+
+ctrl + p => abre um campo para pesquisa de arquivos do projeto selecionado.
+
+* No campo que foi aberto no atalho ctrl + p, podemos inserir o sinal de > para transitar
+para o atalho de pesquisa de todos os recursos do VS Code. Se o sinal > for removido,
+volta para a pesquisa de arquivos.
+
+ctrl + g => para ir para a linha desejada.
+
+alt + seta => move a linha posicionada para outra linha.
+
+alt + shift + seta => duplica a linha selecionada.
+
+ctrl + shift + k => deleta a linha inteira cujo cursor está posicionado.
+
+Para trocar uma palavra em todo o texto ou código, clique duas vezes sobre a palavra,
+para que ela fique selecionada e destacada. Em seguida utilize o comando abaixo
+
+ctrl + d => quantas vezes forem necessárias para encontrar todas as palavras iguais. 
+para pular uma palavra, pressione ctrl + k.
+
+para desmarcar as palavras pressione ESC.
+
+Para procurar 
