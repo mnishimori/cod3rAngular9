@@ -1,0 +1,68 @@
+v4 --- 01/08/2020 ---
+
+npm init -y --> para criar o arquivo package.json onde são armazenadas as dependências do projeto. -y significa yes tipo o -f do linux
+
+npm i json-server --> para adicionar a dependência do json-server para construir a api.
+
+db.json --> endpoints da api
+
+npm start --> para iniciar o serviço do node e permitir fazer requisições no json-server
+
+
+v5 --- 01/08/2020 ---
+
+Conceitos
+
+Angular - framework js criado pelo Google para criar SPA baseadas em componentes.
+
+AngularJS x Angular 2
+
+CLI - utilizado command line interface 
+    - instalação: npm i -g @angular/cli
+    - para criar a aplicação: ng new minha-app
+
+TypeScript - linguagem criada pela Microsoft. O código escrito em TypeScript é compilado para JavaScript. 
+    - Superset do JavaScript
+    - Orientada a objetos 
+    - Tipagem forte
+
+Árvore de componentes 
+
+
+v6 --- 01/08/2020 ---
+
+Inicialização da app
+    - main.ts (ts - TypeScript)
+
+    - AppModule - app organizada em módulos.
+        - Declarations
+            - components
+            - diretivas
+            - pipes
+
+        - Imports
+            - module a
+            - module b
+            - module c
+
+        - Exports
+            - components
+            - diretivas
+            - pipes
+
+        - Providers
+            - service a
+            - service b
+            - service c
+
+        - Bootstrap
+            - app component
+
+    - AppComponent - componentes
+        - html - home.component.html
+        - css  - home.component.css
+        - ts   - home.component.ts
+
+        - tag  - <app-home></app-home>
+
+v7 --- 01/08/2020 ---
